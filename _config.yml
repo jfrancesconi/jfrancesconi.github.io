@@ -1,3 +1,7 @@
 name: Justin Francesconi
 markdown: redcarpet
 pygments: true
+
+introduciton:
+    heading: "Greetings!"
+    subheading: "I'm a devops engineer with a passion for data, cooking, wine, and the outdoors." 
